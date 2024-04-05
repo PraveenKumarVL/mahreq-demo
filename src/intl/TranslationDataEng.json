@@ -1,0 +1,9 @@
+{
+    "loginButton" : "Login",
+    "emailId" : "Email Id",
+    "password" : "Password",
+    "welcomeBack" : "Welcome Back!",
+    "emailMissing" : "Please fill email and password",
+    "invalidCredentials" : "Invalid credentials",
+    "emptyMessage" : "Youre logged in"
+}

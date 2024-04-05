@@ -1,0 +1,9 @@
+{
+    "loginButton" : "लॉग इन करें",
+    "emailId" : "ईमेल आईडी",
+    "password" : "पासवर्ड",
+    "welcomeBack" : "वापसी पर स्वागत है!",
+    "emailMissing" : "कृपया ईमेल और पासवर्ड भरें",
+    "invalidCredentials" : "अवैध प्रत्यय पत्र",
+    "emptyMessage" : "Youre logged in"
+}
